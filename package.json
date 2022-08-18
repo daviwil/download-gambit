@@ -8,7 +8,7 @@
     "publish": "git tag -d v1 && git tag v1 -m 'v1 of daviwil/download-gambit' && git push -f origin v1"
   },
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^2.2.0",
     "@actions/tool-cache": "^1.5.5"
   },
